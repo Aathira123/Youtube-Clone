@@ -26,7 +26,7 @@ myfetch(video);
         part:'snippet',
         maxResults:8,
         q:video.snippet.channelTitle,
-        key:"AIzaSyCU-mEz6Sqg6Kgbg92qyU9XwUJPE_P8-pA",
+        key:"",
        
         
         }});
@@ -43,7 +43,7 @@ useEffect(async() => {
         maxResults:20,
         chart:'mostPopular',
         regionCode:'US',
-        key:"AIzaSyCU-mEz6Sqg6Kgbg92qyU9XwUJPE_P8-pA",
+        key:"",
        
         
         }});
